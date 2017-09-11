@@ -12,6 +12,7 @@ namespace Hello_world_app
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("Samuel");
+            Console.Writeline("Hejdå...\n");
         }
     }
 }
