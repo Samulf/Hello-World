@@ -11,6 +11,7 @@ namespace Hello_world_app
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
+            Console.WriteLine("Samuel");
         }
     }
 }
